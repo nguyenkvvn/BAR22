@@ -4,7 +4,9 @@ A printable reciever for the Browning BAR-22
 by nguyenkvvn
 
 ## Description
-Here's the long form description, listing features and whatnot of the product here.
+A printable reciever for the Browning BAR-22. Designed using a late-70s early production kit.
+
+Tested with >200 rounds.
 
 ## Variants
 - **Standard** - Barebones receiver only, no rails

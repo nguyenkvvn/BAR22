@@ -22,6 +22,13 @@ Print with the flat tang of the receiver flush against the bed.
 - Hide z-seam
 - Wipe: 3mm
 
+1. Ensure bolt is latched into the spring bar.
+2. Place printed receiver over the frame partially.
+3. Insert the charging handle.
+4. Close the receiver entirely.
+5. Secure the takedown screw in-place.
+6. Attach stock to the printed receiver.
+
 ## Change Log
 
 - v1.0: Initial Release
